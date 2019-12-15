@@ -1,0 +1,8 @@
+.wrap {
+  margin: 0 10px;
+}
+ul,li {
+  margin:0;
+  padding: 0;
+  list-style: none;
+}

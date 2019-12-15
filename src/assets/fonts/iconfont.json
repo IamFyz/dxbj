@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "880167",
+      "name": "首页",
+      "font_class": "shouyeshouye",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "956745",
+      "name": "留言",
+      "font_class": "msg-o",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "2019085",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e7ba",
+      "unicode_decimal": 59322
+    },
+    {
+      "icon_id": "2668386",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    }
+  ]
+}
